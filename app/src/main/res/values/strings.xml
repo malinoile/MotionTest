@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MotionTest</string>
+    <string name="write_email">Введите E-mail</string>
+    <string name="subject">Тема письма</string>
 </resources>
